@@ -2,7 +2,7 @@
 <!-- Header Image from Linkedin -->
 <img src="https://media.licdn.com/dms/image/D4D16AQFpTLFvj8PeJQ/profile-displaybackgroundimage-shrink_350_1400/0/1682337014823?e=1689811200&v=beta&t=ib67CXzw4kXPJGrijL2pXmtNCh6i71szjRs8-M5NegA" />
 
-- Currently looking for a job / work in Software Engineering. 
+- Currently an AppDev Engineering Intern at Autumn Leaf IT. 
 - Working on a concept for a windows app that you can use to schedule a shutdown or hybernate based on loadshedding. 
 
 ## Connect with me 
