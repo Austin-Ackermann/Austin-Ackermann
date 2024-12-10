@@ -2,8 +2,7 @@
 <!-- Header Image from Linkedin -->
 <img src="https://media.licdn.com/dms/image/D4D16AQFpTLFvj8PeJQ/profile-displaybackgroundimage-shrink_350_1400/0/1682337014823?e=1689811200&v=beta&t=ib67CXzw4kXPJGrijL2pXmtNCh6i71szjRs8-M5NegA" />
 
-- Currently an AppDev Engineering Intern at Autumn Leaf IT. 
-- Working on a concept for a windows app that you can use to schedule a shutdown or hybernate based on loadshedding. 
+- Worked at Autumn Leaf IT from Jun 2023 to December 2024, please see my <a href="https://github.com/Austin-ALIT"> AL github account </a> for more contributions. 
 
 ## Connect with me 
 
