@@ -1,6 +1,6 @@
 
 <!-- Header Image from Linkedin -->
-<img src="https://media.licdn.com/dms/image/D4D16AQFpTLFvj8PeJQ/profile-displaybackgroundimage-shrink_350_1400/0/1682337014823?e=1689811200&v=beta&t=ib67CXzw4kXPJGrijL2pXmtNCh6i71szjRs8-M5NegA" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFdYOsWfmd6Lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733129735001?e=1742428800&v=beta&t=Iyrkk80Qiu4egC2F7FsgHxE7cp5SpqcQNPfE8ZJdU8g" />
 
 - Worked at Autumn Leaf IT from Jun 2023 to December 2024, please see my <a href="https://github.com/Austin-ALIT"> AL github account </a> for more contributions. 
 
